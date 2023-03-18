@@ -1,3 +1,3 @@
 # CS760_HW4
 
-The implementation details can be found in this jupyter notebook "HW4.ipynb". 
+The implementation details can be found in the notebook "HW4.ipynb". 
